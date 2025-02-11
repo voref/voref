@@ -1,6 +1,5 @@
 <!-- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=16,20,25 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=8338ec)
-
 ## Hi there 👋
 I'm Dario
 
