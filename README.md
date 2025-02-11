@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=16,20,25)
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=8338ec) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=16,20,25) -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=8338ec)
 ## Hi there 👋
 I'm Dario
 
 ## Tech Stack 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voref&show_icons=true&theme=material-palenight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voref&show_icons=true&theme=material-palenight) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voref&show_icons=true&theme=midnight-purple)
 
 <!--
 **voref/voref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
