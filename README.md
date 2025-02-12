@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=_custom_gradient&customGradient=0:292D3E,25:4568DC,50:8E54E9,75:C792EA,100:82AAFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=color=0:9BA9FF,12:A5ADFF,25:AFB1FF,37:B9B5FF,50:C4BAFF,62:CEBEFF,75:D8C2FF,87:E2C6FF,100:ECCAFF)
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=8338ec) -->
 ## Hi there 👋
 I'm Dario
