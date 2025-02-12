@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A6ACCD,25:9CA7E4,50:B388EB,75:D3A7FF,100:C5A3FF" />
 </p>
 
-<h2 style="margin-bottom: 0;">Hi there 👋</h2>
-<p style="margin-top: 0;">I'm Dario</p>
+## Hi there 👋
+<p>I'm Dario</p>
 
 ## Tech Stack 💻
+
 
 ## Github Stats 📈
 <p align="center">
