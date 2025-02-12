@@ -3,7 +3,7 @@
 </p>
 
 ## Hi there 👋
-<p>I'm Dario</p>
+<p>I'm Dario, a current DBRE who seeks ways to learn every day</p>
 
 ## Tech Stack 💻
 <p>
